@@ -10,4 +10,4 @@ To be honest,I am not saying that I am a expert but can still make some good web
 > http://thegamerbrutalcup.github.io/Example3-clinic-centre-web/ (this is a website of a clinic centre)
 
 As I am starting out my gigs starts from ranges of just 5-10$ 
-Thank you.
+Thank you\
